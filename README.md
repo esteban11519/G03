@@ -4,3 +4,5 @@ This proyect is with the necessity of organize the university hourly, when you b
 
 Time of start
 
+In 2020, February.  
+
