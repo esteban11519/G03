@@ -22,7 +22,8 @@ public class hourly
     lectura lect=new lectura();    
     viuw.view(lect.lecSub());
     
-//    
+//    This code is to do some test 
+
 //    comparisons comp= new comparisons();
 //    viuw.viuwPrint(comp.subject4(lect.lecSub()), lect.lecSub().size());
 
