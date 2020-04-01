@@ -7,4 +7,4 @@ Time of start: In 2020, February.
 Objetive
 - Implement the GUI
 
-$\int a^b$
+$$\int a^b$$
